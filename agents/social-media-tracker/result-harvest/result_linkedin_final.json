@@ -1,0 +1,459 @@
+[{
+  "type": "post",
+  "id": "7452360514761928704",
+  "linkedinUrl": "https://www.linkedin.com/posts/elias-pineda-4707a8189_amd-datacenter-rackintegration-activity-7452360514761928704-Mtkp",
+  "content": "We are hiring a Senior Hardware & Rack Integration Engineer with a focus on data center rack-level hardware and system integration. Come join us!\n\n#AMD #DataCenter #RackIntegration #HardwareEngineering #DataCenterRackSystems",
+  "contentAttributes": [],
+  "author": {
+    "id": "ACoAACxvBpQBJwFeJlTfIrmmw_rBk7fF5I9hhpo",
+    "universalName": null,
+    "publicIdentifier": "elias-pineda-4707a8189",
+    "type": "profile",
+    "name": "Elias Pineda",
+    "linkedinUrl": "https://www.linkedin.com/in/elias-pineda-4707a8189?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACxvBpQBJwFeJlTfIrmmw_rBk7fF5I9hhpo",
+    "info": "Sr. Mechanical Engineer",
+    "website": null,
+    "websiteLabel": null,
+    "avatar": {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQFFSsPqEY-2Jw/profile-displayphoto-crop_800_800/B4EZrxrULyIIAI-/0/1764991257075?e=1778716800&v=beta&t=P715kbwppS3DkW0rfn0gUNhPanlb8sKMAFuzIEKI5gY",
+      "width": 800,
+      "height": 800,
+      "expiresAt": 1778716800000
+    },
+    "urn": "745473684"
+  },
+  "postedAt": {
+    "timestamp": 1776781204882,
+    "date": "2026-04-21T14:20:04.882Z",
+    "postedAgoShort": "20h",
+    "postedAgoText": "20 hours ago • Visible to anyone on or off LinkedIn"
+  },
+  "postImages": [],
+  "job": {
+    "title": "Sr. Hardware & Rack Integration Engineer  ",
+    "linkedinUrl": "https://www.linkedin.com/jobs/view/4364123389/?refId=sp7lLYmPRH2ARfp%2FYO9FOA%3D%3D&trackingId=sp7lLYmPRH2ARfp%2FYO9FOA%3D%3D",
+    "location": "Secaucus, New Jersey, United States (On-site)",
+    "subtitle": "Job by AMD",
+    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFCdxxVA_xhqQ/company-logo_400_400/B56ZnuIjafHUAc-/0/1760636844195/amd_logo?e=1778716800&v=beta&t=L_gZAGA4MiWdCAL0VmGI8xmmR0hOCvYt78iI9-baNxM"
+  },
+  "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": true,
+    "hideSendAction": true,
+    "hideRepostsCount": false,
+    "hideViewsCount": false,
+    "trustInterventionBanner": null,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/elias-pineda-4707a8189_amd-datacenter-rackintegration-activity-7452360514761928704-Mtkp?",
+    "showContributionExperience": false,
+    "showSocialDetail": true
+  },
+  "comments": [],
+  "header": {
+    "text": null
+  },
+  "entityId": "7452360514761928704",
+  "shareUrn": "urn:li:share:7452360514200014848",
+  "engagement": {
+    "id": "7452360514761928704",
+    "likes": 4,
+    "comments": 0,
+    "shares": 2,
+    "reactions": [
+      {
+        "type": "LIKE",
+        "count": 4
+      }
+    ]
+  },
+  "reactions": [],
+  "reactionIds": [],
+  "commentIds": [],
+  "query": {
+    "sortBy": "relevance",
+    "page": 1,
+    "search": "#AMD"
+  }
+},
+{
+  "type": "post",
+  "id": "7449610541993578497",
+  "linkedinUrl": "https://www.linkedin.com/posts/activity-7449610541993578497-9ZJH",
+  "content": "Space doesn’t forgive hardware failures. AMD is building silicon that survives.\n\nRadiation-tolerant Versal adaptive SoCs powering Blue Origin’s lunar lander, NASA’s Perseverance rover, OSIRIS-REx, and Japan’s first optical satellite constellation — all validated for the harshest environment known to electronics.\nWhat that actually means in practice:\n• Proton, heavy ion, and gamma radiation testing \n• MIL-PRF-38535 qualified \n• Fault-tolerant system design support\n• Long-term lifecycle support aligned with multi-decade missions\n\nAnd unlike traditional space ASICs, these are reconfigurable — update algorithms post-launch, deploy new AI models mid-mission, adapt to changing requirements without new hardware.\n\nRad-hard + adaptive SoC is a powerful combination when your hardware is 384,000 km away.\n\n\\@AMD #AMD #FPGA #SpaceFrontier #RadiationHard #togetherweadvance_space exploration #AMDBrandAmbassador",
+  "contentAttributes": [],
+  "author": {
+    "id": "ACoAAAAcsOABLjni10MK7oBcJP3LvglDqxdP2dU",
+    "universalName": null,
+    "publicIdentifier": "shrenikm",
+    "type": "profile",
+    "name": "Shrenik Mehta",
+    "linkedinUrl": "https://www.linkedin.com/in/shrenikm?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAcsOABLjni10MK7oBcJP3LvglDqxdP2dU",
+    "info": "Functional Safety - Industry Standards | AMD Brand Ambassador",
+    "website": null,
+    "websiteLabel": null,
+    "avatar": null,
+    "urn": "1880288"
+  },
+  "postedAt": {
+    "timestamp": 1776125560282,
+    "date": "2026-04-14T00:12:40.282Z",
+    "postedAgoShort": "1w",
+    "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+  },
+  "postImages": [],
+  "article": {
+    "title": "AMD in Space: Proven Compute for Lunar Missions",
+    "subtitle": "amd.com",
+    "link": "https://bit.ly/4c9jspl",
+    "linkLabel": "Open article: AMD in Space: Proven Compute for Lunar Missions by bit.ly",
+    "description": null,
+    "image": {
+      "url": "https://media.licdn.com/dms/image/v2/D5610AQFVULWDVcey_g/image-shrink_1280/B56Z2JVUKaKoAc-/0/1776125559683?e=1777464000&v=beta&t=-YIhQ27BGOoupDJXhu5c0Y3Xypk_eB72Hhd29fnOiP8",
+      "width": 1200,
+      "height": 675,
+      "expiresAt": 1777464000000
+    }
+  },
+  "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": true,
+    "hideSendAction": true,
+    "hideRepostsCount": false,
+    "hideViewsCount": false,
+    "trustInterventionBanner": null,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/activity-7449610541993578497-9ZJH?",
+    "showContributionExperience": false,
+    "showSocialDetail": true
+  },
+  "comments": [],
+  "header": {
+    "text": null
+  },
+  "entityId": "7449610541993578497",
+  "shareUrn": "urn:li:share:7449610541322440705",
+  "engagement": {
+    "id": "7449610541993578497",
+    "likes": 15,
+    "comments": 6,
+    "shares": 0,
+    "reactions": [
+      {
+        "type": "LIKE",
+        "count": 13
+      },
+      {
+        "type": "PRAISE",
+        "count": 1
+      },
+      {
+        "type": "INTEREST",
+        "count": 1
+      }
+    ]
+  },
+  "reactions": [],
+  "reactionIds": [],
+  "commentIds": [],
+  "query": {
+    "sortBy": "relevance",
+    "page": 1,
+    "search": "#AMD"
+  }
+},
+{
+  "type": "post",
+  "id": "7445937901969776640",
+  "linkedinUrl": "https://www.linkedin.com/posts/brendawilsondwt_amd-greatopportunity-togetherweadvance-activity-7445937901969776640-PZOD",
+  "content": "🚀 Join AMD – Product Manager, Semi-Custom Business Unit 🚀 \n\nAre you ready to be at the center of innovation in high-performance computing and custom silicon solutions? AMD is looking for a dynamic Product Manager to join our Semi-Custom Business Unit, where you’ll play a pivotal role in shaping cutting-edge products for global customers.\nIn this role, you’ll serve as the key bridge between our customers and internal engineering, business, and operations teams—owning and driving the success of complex, high-impact programs from concept to delivery.\n\n🌟 What You’ll Do\nLead end-to-end semi-custom business programs, from strategy through execution\nDrive customer engagement, contract negotiations, and supplier strategies\nBuild and manage business forecasts, P&L, and product roadmaps\nPartner with engineering to deliver next-gen silicon solutions (CPU/GPU, SoCs)\nEnsure operational excellence and continuous supply across global teams\n\n🧠 What You Bring\nExperience in product management, program management, or product marketing within semiconductors, HPC, or graphics\nStrong ability to define MRDs/PRDs, business cases, and product roadmaps\nKnowledge of computer systems, CPU/GPU architectures, or silicon technologies\nProven success managing large, complex customer programs\nExceptional communication, analytical, and problem-solving skills\nAbility to thrive in a fast-paced, cross-functional, matrixed environment\n\nBonus Points:\n ✔️ Experience with procurement/supply chain\n ✔️ Strong negotiation background\n ✔️ Experience managing a P&L\n🌍 Travel: Up to 20% international\n\nAt AMD, you’ll work at the forefront of innovation, helping deliver custom silicon solutions that power the world’s most advanced technologies.\n\n🔗 Ready to make an impact? Apply now and help define the future of computing.\n\nCasey Brewer (Dalman)\n\n#AMD #greatopportunity #togetherweadvance #productmanager #cuttingedgetechnooloty",
+  "contentAttributes": [
+    {
+      "start": 1803,
+      "length": 21,
+      "type": "PROFILE_MENTION",
+      "hyperlink": "https://www.linkedin.com/in/ACoAAA3icU8B10iYmv0o_QIt_YRlTRDD4T7HJU0",
+      "textLink": null,
+      "profile": {
+        "id": "ACoAAA3icU8B10iYmv0o_QIt_YRlTRDD4T7HJU0",
+        "firstName": "Casey",
+        "lastName": "Brewer (Dalman)",
+        "linkedinUrl": "https://www.linkedin.com/in/casey-brewer512",
+        "publicIdentifier": "casey-brewer512"
+      }
+    }
+  ],
+  "author": {
+    "id": "ACoAAANT3Y4BG9hfP3_W9yKzF2qxZGUBsF-rnIw",
+    "universalName": null,
+    "publicIdentifier": "brendawilsondwt",
+    "type": "profile",
+    "name": "Brenda Wilson, CDR",
+    "linkedinUrl": "https://www.linkedin.com/in/brendawilsondwt?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAANT3Y4BG9hfP3_W9yKzF2qxZGUBsF-rnIw",
+    "info": "Passionate about building AMD teams that will continue to lead the path in cutting edge technology...",
+    "website": null,
+    "websiteLabel": null,
+    "avatar": {
+      "url": "https://media.licdn.com/dms/image/v2/D4E35AQErova0BnVD3w/profile-framedphoto-shrink_800_800/B4EZU9xnk0H0Ag-/0/1740498172633?e=1777464000&v=beta&t=atAMNuRCyxWK9zEuIXMlflBh63x6M-O4ls2ydy32-Sk",
+      "width": 800,
+      "height": 800,
+      "expiresAt": 1777464000000
+    },
+    "urn": "55827854"
+  },
+  "postedAt": {
+    "timestamp": 1775249934666,
+    "date": "2026-04-03T20:58:54.666Z",
+    "postedAgoShort": "2w",
+    "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+  },
+  "postImages": [],
+  "job": {
+    "title": "Product Manager  ",
+    "linkedinUrl": "https://www.linkedin.com/jobs/view/4351138033/?refId=FnGV7qdGRVGOQ3TBhVsqNw%3D%3D&trackingId=FnGV7qdGRVGOQ3TBhVsqNw%3D%3D",
+    "location": "Austin, Texas, United States (On-site)",
+    "subtitle": "Job by AMD",
+    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFCdxxVA_xhqQ/company-logo_400_400/B56ZnuIjafHUAc-/0/1760636844195/amd_logo?e=1778716800&v=beta&t=L_gZAGA4MiWdCAL0VmGI8xmmR0hOCvYt78iI9-baNxM"
+  },
+  "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": true,
+    "hideSendAction": true,
+    "hideRepostsCount": false,
+    "hideViewsCount": false,
+    "trustInterventionBanner": null,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/brendawilsondwt_amd-greatopportunity-togetherweadvance-activity-7445937901969776640-PZOD?",
+    "showContributionExperience": false,
+    "showSocialDetail": true
+  },
+  "comments": [],
+  "header": {
+    "text": null
+  },
+  "entityId": "7445937901969776640",
+  "shareUrn": "urn:li:share:7445937899000209409",
+  "engagement": {
+    "id": "7445937901969776640",
+    "likes": 22,
+    "comments": 1,
+    "shares": 3,
+    "reactions": [
+      {
+        "type": "LIKE",
+        "count": 20
+      },
+      {
+        "type": "PRAISE",
+        "count": 1
+      },
+      {
+        "type": "EMPATHY",
+        "count": 1
+      }
+    ]
+  },
+  "reactions": [],
+  "reactionIds": [],
+  "commentIds": [],
+  "query": {
+    "sortBy": "relevance",
+    "page": 1,
+    "search": "#AMD"
+  }
+},
+{
+  "type": "post",
+  "id": "7445613091276595200",
+  "linkedinUrl": "https://www.linkedin.com/posts/vunguyenphys_amd-spotlight-activity-7445613091276595200-IEyn",
+  "content": "One more hexagon #AMD #spotlight 😁",
+  "contentAttributes": [],
+  "author": {
+    "id": "ACoAABhkCg4BRg-zdV1abzTActJ2g3Rws0xL6ig",
+    "universalName": null,
+    "publicIdentifier": "vunguyenphys",
+    "type": "profile",
+    "name": "Vu Nguyen",
+    "linkedinUrl": "https://www.linkedin.com/in/vunguyenphys?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABhkCg4BRg-zdV1abzTActJ2g3Rws0xL6ig",
+    "info": "Sr. Silicon Design Engineer @ AMD",
+    "website": null,
+    "websiteLabel": null,
+    "avatar": {
+      "url": "https://media.licdn.com/dms/image/v2/C5603AQFfaQhm4b6Dug/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1598145584158?e=1778716800&v=beta&t=jnbq8_G-cZVIunxn16DD5c0TGOIUk7h1L876lnXBTZw",
+      "width": 480,
+      "height": 480,
+      "expiresAt": 1778716800000
+    },
+    "urn": "409209358"
+  },
+  "postedAt": {
+    "timestamp": 1775172493762,
+    "date": "2026-04-02T23:28:13.762Z",
+    "postedAgoShort": "2w",
+    "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+  },
+  "postImages": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQF1-xt1OtDEIA/feedshare-shrink_1280/B4DZ1QhpFoKoAQ-/0/1775172492017?e=1778716800&v=beta&t=o_GBixrKBSVoRIqmnELSkxNyaV9JwKqLLiHf2zYcexM",
+      "width": 1280,
+      "height": 1707,
+      "expiresAt": 1778716800000
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQFeiQHqXEpgpQ/feedshare-shrink_1280/B4DZ1Qho7LH4AM-/0/1775172489369?e=1778716800&v=beta&t=qaBsWxbAbA9c9-51xTbRl-XC179HwD5tj8kT8zZ6S-w",
+      "width": 1280,
+      "height": 1706,
+      "expiresAt": 1778716800000
+    }
+  ],
+  "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": true,
+    "hideSendAction": true,
+    "hideRepostsCount": false,
+    "hideViewsCount": false,
+    "trustInterventionBanner": null,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/vunguyenphys_amd-spotlight-activity-7445613091276595200-IEyn?",
+    "showContributionExperience": false,
+    "showSocialDetail": true
+  },
+  "comments": [],
+  "header": {
+    "text": null
+  },
+  "entityId": "7445613091276595200",
+  "shareUrn": "urn:li:ugcPost:7445613090496344064",
+  "engagement": {
+    "id": "7445613090496344064",
+    "likes": 69,
+    "comments": 3,
+    "shares": 0,
+    "reactions": [
+      {
+        "type": "LIKE",
+        "count": 58
+      },
+      {
+        "type": "PRAISE",
+        "count": 6
+      },
+      {
+        "type": "EMPATHY",
+        "count": 3
+      },
+      {
+        "type": "APPRECIATION",
+        "count": 2
+      }
+    ]
+  },
+  "reactions": [],
+  "reactionIds": [],
+  "commentIds": [],
+  "query": {
+    "sortBy": "relevance",
+    "page": 1,
+    "search": "#AMD"
+  }
+},
+{
+  "type": "post",
+  "id": "7450643461327937557",
+  "linkedinUrl": "https://www.linkedin.com/posts/jhort_management-devtech-gaming-activity-7450643461327937557-3l_9",
+  "content": "I am hiring for a proven superstar leader with strong roots in game engines, game optimizations, and bringing agentic AI workflows to modernize the workplace. This is an opportunity to level up your career at AMD. \n\nIf you have questions or believe you have what it takes, please feel free to reach out or apply. \n\nPlease share this with your network, especially those who have been recently affected by layoffs in the gaming industry. \n\n#management #devtech #gaming #AMD",
+  "contentAttributes": [],
+  "author": {
+    "id": "ACoAAABKjLoBxjaTUOxhnqpbD8wZ4Nfv3G6jJEI",
+    "universalName": null,
+    "publicIdentifier": "jhort",
+    "type": "profile",
+    "name": "Joshua H.",
+    "linkedinUrl": "https://www.linkedin.com/in/jhort?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABKjLoBxjaTUOxhnqpbD8wZ4Nfv3G6jJEI",
+    "info": "Senior Director, Head of ISV Enabling for Computing & Graphics at AMD",
+    "website": null,
+    "websiteLabel": null,
+    "avatar": {
+      "url": "https://media.licdn.com/dms/image/v2/D4E35AQFarzlMOu52bw/profile-framedphoto-shrink_400_400/B4EZ2X9WESJ8Ac-/0/1776370934251?e=1777464000&v=beta&t=oriw5oX1r491aKnp9yLaaSXmAuRqRbF-uFA-2jC2GFw",
+      "width": 337,
+      "height": 337,
+      "expiresAt": 1777464000000
+    },
+    "urn": "4885690"
+  },
+  "postedAt": {
+    "timestamp": 1776371827442,
+    "date": "2026-04-16T20:37:07.442Z",
+    "postedAgoShort": "5d",
+    "postedAgoText": "5 days ago • Visible to anyone on or off LinkedIn"
+  },
+  "postImages": [],
+  "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": true,
+    "hideSendAction": true,
+    "hideRepostsCount": false,
+    "hideViewsCount": false,
+    "trustInterventionBanner": null,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/jhort_management-devtech-gaming-activity-7450643461327937557-3l_9?",
+    "showContributionExperience": false,
+    "showSocialDetail": true
+  },
+  "comments": [],
+  "header": {
+    "text": null
+  },
+  "entityId": "7450643461327937557",
+  "shareUrn": "urn:li:ugcPost:7450643460572733440",
+  "engagement": {
+    "id": "7450643460572733440",
+    "likes": 146,
+    "comments": 6,
+    "shares": 43,
+    "reactions": [
+      {
+        "type": "LIKE",
+        "count": 134
+      },
+      {
+        "type": "PRAISE",
+        "count": 5
+      },
+      {
+        "type": "EMPATHY",
+        "count": 4
+      },
+      {
+        "type": "APPRECIATION",
+        "count": 2
+      },
+      {
+        "type": "INTEREST",
+        "count": 1
+      }
+    ]
+  },
+  "reactions": [],
+  "reactionIds": [],
+  "commentIds": [],
+  "query": {
+    "sortBy": "relevance",
+    "page": 1,
+    "search": "#AMD"
+  }
+}]

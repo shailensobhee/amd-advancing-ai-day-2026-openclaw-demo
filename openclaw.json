@@ -1,0 +1,114 @@
+{
+  "gateway": {
+    "auth": {
+      "token": "claw123"
+    },
+    "mode": "local"
+  },
+  "mcp": {
+    "servers": {
+      "xpoz": {
+        "url": "https://mcp.xpoz.ai/mcp",
+        "headers": {
+          "Authorization": "Bearer <EXPOZ Token>"
+        }
+      },
+      "apify": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@apify/actors-mcp-server"
+        ],
+        "env": {
+          "APIFY_TOKEN": "<APIFY Token>",
+          "LINKEDIN_COOKIE": "<Linkedin_cookie>"
+        }
+      }
+    }
+  },
+  "models": {
+    "providers": {
+      "vllm": {
+        "baseUrl": "http://localhost:8001/v1",
+        "apiKey": "local-vllm",
+        "api": "openai-completions",
+        "models": [
+          {
+            "id": "google/gemma-4-31B-it",
+            "name": "Gemma-4-Vision",
+            "input": [
+              "text",
+              "image"
+            ],
+            "compat": {
+              "supportsUsageInStreaming": true
+            }
+          }
+        ]
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "vllm/google/gemma-4-31B-it"
+      },
+      "imageModel": {
+        "primary": "vllm/google/gemma-4-31B-it"
+      },
+      "pdfModel": {
+        "primary": "vllm/google/gemma-4-31B-it"
+      }
+    },
+    "list": [
+      {
+        "id": "social-media-tracker",
+        "workspace": "~/.openclaw/agents/social-media-tracker",
+        "tools": {
+          "allow": [
+            "group:fs",
+            "exec",
+            "sessions_spawn",
+            "subagents"
+          ],
+          "exec": {
+            "ask": "off",
+            "security": "full"
+          }
+        }
+      },
+      {
+        "id": "twitter-x",
+        "model": {
+          "primary": "vllm/google/gemma-4-31B-it"
+        },
+        "skills": [
+          "xpoz-social-search",
+          "xpoz-setup"
+        ]
+      },
+      {
+        "id": "linkedin",
+        "workspace": "~/.openclaw/agents/linkedin",
+        "tools": {
+          "allow": [
+            "group:fs",
+            "exec",
+            "mcp:apify"
+          ]
+        }
+      }
+    ]
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.4.14",
+    "lastTouchedAt": "2026-04-22T16:15:43.499Z"
+  },
+  "plugins": {
+    "entries": {
+      "vllm": {
+        "enabled": true
+      }
+    }
+  }
+}
