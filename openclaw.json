@@ -10,7 +10,8 @@
       "xpoz": {
         "url": "https://mcp.xpoz.ai/mcp",
         "headers": {
-          "Authorization": "Bearer <EXPOZ Token>"
+          "Authorization": "Bearer <XPOZ Key>",
+          "Accept": "application/json, text/event-stream"
         }
       },
       "apify": {
@@ -20,8 +21,7 @@
           "@apify/actors-mcp-server"
         ],
         "env": {
-          "APIFY_TOKEN": "<APIFY Token>",
-          "LINKEDIN_COOKIE": "<Linkedin_cookie>"
+          "APIFY_TOKEN": "<APIFY Key>"
         }
       }
     }
@@ -79,13 +79,21 @@
       },
       {
         "id": "twitter-x",
+        "workspace": "~/.openclaw/agents/twitter-x",
         "model": {
           "primary": "vllm/google/gemma-4-31B-it"
         },
         "skills": [
+          "group:fs",
           "xpoz-social-search",
           "xpoz-setup"
-        ]
+        ],
+        "tools": {
+            "allow": [
+            "mcp:xpoz",
+            "group:fs"
+            ]
+        }
       },
       {
         "id": "linkedin",
@@ -95,6 +103,16 @@
             "group:fs",
             "exec",
             "mcp:apify"
+          ]
+        }
+      },
+      {
+        "id": "leader-board-tracker",
+        "workspace": "~/.openclaw/agents/leader-board-tracker",
+        "tools": {
+          "allow": [
+            "group:fs",
+            "exec"
           ]
         }
       }
