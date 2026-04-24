@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "xpoz": {
-      "transport": "http",
-      "url": "https://mcp.xpoz.ai/mcp"
-    }
-  }
-}
