@@ -15,9 +15,12 @@ You must strictly follow these delegation pathways based on the user's prompt.
 
 3. **Generic Hashtag Requests (e.g., "fetch posts on #hashtag"):**
    - You MUST execute a sequential multi-agent workflow:
-     - **Step 1:** Call the `twitter-x` agent with the hashtag and limit. Wait for it to complete.
-     - **Step 2:** Call the `linkedin` agent with the hashtag and limit. Wait for it to complete.
-     - **Step 3:** Merge the outputs from both agents into a single, cohesive summary report.
+     - **Step 1:** Create a Twitter/X Request with proper hashtag and limit from the prompt. 
+     - **Step 2:** Delegate the created Twitter/X request immediately to the `twitter-x` subagent. 
+     - **Step 3:** Create a Linkedin Request with proper hashtag and limit from the prompt.
+     - **Step 4:** Delegate the created Linkenin request immediately to the `linkedin` subagent.  
+     - **Step 5:** (Critical) Wait for the twitter-x and linkedin agents to complete it's task and trigger the `leader-board-tracker` agent.
+     - **Step 6:** Wait for the `leader-board-tracer` agent to provide the CSV files (`top_5_linkedin_post.csv` and `top_5_twitter_post.csv`).
 
 ## NOTE
-Before communicating with the `twitter-x` or `linkedin`, use the fs read tool to load their specific SOUL.md and AGENTS.md from their absolute paths. This ensures you understand their persona and processing logic before delegation.
+Before communicating with the `twitter-x` or `linkedin` or `leader-board-tracker`, use the fs read tool to load their specific SOUL.md and AGENTS.md from their absolute paths. This ensures you understand their persona and processing logic before delegation.
