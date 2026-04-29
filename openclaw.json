@@ -79,13 +79,21 @@
       },
       {
         "id": "twitter-x",
+        "workspace": "~/.openclaw/agents/twitter-x",
         "model": {
           "primary": "vllm/google/gemma-4-31B-it"
         },
         "skills": [
           "xpoz-social-search",
           "xpoz-setup"
-        ]
+        ],
+        "tools": {
+            "allow": [
+            "mcp:xpoz",
+            "group:fs",
+            "exec"
+            ]
+        }
       },
       {
         "id": "linkedin",
@@ -97,12 +105,22 @@
             "mcp:apify"
           ]
         }
+      },
+      {
+        "id": "leader-board-tracker",
+        "workspace": "~/.openclaw/agents/leader-board-tracker",
+        "tools": {
+          "allow": [
+            "group:fs",
+            "exec"
+          ]
+        }
       }
     ]
   },
   "meta": {
-    "lastTouchedVersion": "2026.4.14",
-    "lastTouchedAt": "2026-04-22T16:15:43.499Z"
+    "lastTouchedVersion": "2026.4.9",
+    "lastTouchedAt": "2026-04-26T14:26:12.888Z"
   },
   "plugins": {
     "entries": {
@@ -110,5 +128,10 @@
         "enabled": true
       }
     }
+  },
+  "browser": {
+    "enabled": true,
+    "noSandbox": true,
+    "headless": true
   }
 }
